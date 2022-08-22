@@ -18,7 +18,7 @@ var config = {
         "一切随缘而定即可",
         "YAMI~~",
         "see you for the first time",
-        "it's me, miraitowa!allways with you!",
+        "it's me, miraitowa.allways with you!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
