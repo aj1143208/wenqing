@@ -17,7 +17,7 @@ var config = {
         "所以",
         "一切随缘而定即可",
         "YAMI~~",
-        "see you for the first time",
+        "see you for the first time!",
         "it's me, miraitowa!allways with you!",
     ],
     /**
@@ -30,7 +30,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "see you for the first time": "./imgs/wenqing.png",
+        "see you for the first time!": "./imgs/wenqing.png",
         "it's me, miraitowa!allways with you!": "./imgs/miraitowa.png",
         
            //         "心爱的小可爱": "./imgs/xiaokeai.png",
