@@ -37,11 +37,11 @@ var config = {
     desc: {
         turn_on: "点我点我点我",
         play: "音乐滴要的要的",
-        bannar_coming: "换个颜色试试",
+        bannar_coming: "怎能没有那句话",
         balloons_flying: "呀，好像少了点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "是生日快乐！！！",
+        wish_message: "Happy Birthday To You！！！",
         story: "A MESSAGE FOR YOU",
     }
 };
