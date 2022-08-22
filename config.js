@@ -40,8 +40,8 @@ var config = {
         play: "音乐滴要的要的",
         bannar_coming: "怎能没有那句话",
         balloons_flying: "呀，好像少了点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        cake_fadein: "哇哦！蛋糕呢？",
+        light_candle: "再来根蜡烛",
         wish_message: "Happy Birthday To You！！！",
         story: "A MESSAGE FOR YOU",
     }
