@@ -39,11 +39,11 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "点我点我点我",
-        play: "音乐滴要的要的",
+        play: "音乐响起来",
         bannar_coming: "怎能没有那句话",
         balloons_flying: "呀，好像少了点东西",
-        cake_fadein: "哇哦！蛋糕呢？",
-        light_candle: "再来根蜡烛",
+        cake_fadein: "哇哦！我的生日蛋糕呢？",
+        light_candle: "要是再来根蜡烛就完美了",
         wish_message: "Happy Birthday To You！！！",
         story: "A MESSAGE FOR YOU",
     }
