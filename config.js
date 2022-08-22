@@ -43,7 +43,7 @@ var config = {
         bannar_coming: "怎能没有那句话",
         balloons_flying: "呀，好像少了点东西",
         cake_fadein: "哇哦！我的生日蛋糕呢？",
-        light_candle: "要是再来根蜡烛就完美了",
+        light_candle: "要是能再来根蜡烛就完美了",
         wish_message: "Happy Birthday To You！！！",
         story: "A MESSAGE FOR YOU",
     }
